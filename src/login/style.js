@@ -43,7 +43,7 @@ loginButton: {
   height: 45,
   marginTop: 10,
   width:200,
-  marginLeft:'25%'
+  marginLeft:'43%'
 },
 signupButton: {
 
@@ -52,7 +52,7 @@ signupButton: {
   height: 45,
   marginTop: 50,
   width:200,
-  marginLeft:'25%'
+  marginLeft:'43%'
 },
 
 forgotPass: {
