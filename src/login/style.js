@@ -57,6 +57,6 @@ signupButton: {
 
 forgotPass: {
   marginTop: 10,
-  marginLeft:'80'
+  marginLeft:'80%'
 },
 };
