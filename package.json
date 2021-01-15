@@ -18,7 +18,10 @@
     "expo-constants": "~9.3.1",
     "react-native-elements": "*",
     "react-native-safe-area-context": "3.1.9",
-    "@expo/vector-icons": "^10.0.0"
+    "@expo/vector-icons": "^10.0.0",
+    "react-native-swiper": "*",
+    "react-native-web-swiper": "*",
+    "react-native-snap-carousel": "*"
   },
   "devDependencies": {
     "@babel/core": "~7.9.0"

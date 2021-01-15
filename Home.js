@@ -2,7 +2,7 @@ import React from 'react';
 import { StyleSheet, View, Image } from 'react-native';
 import Swiper from 'react-native-swiper';
 
-export default function App() {
+export default function Home() {
   return (
       <Swiper
         autoplay={true} //auto slide
