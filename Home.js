@@ -15,19 +15,19 @@ export default function App() {
 
         <View style={styles.slide}>
           <Image
-            source={require('./assets/slide_1.jpeg')}
+            source={require('./assets/Mobiles.jpeg')}
             style = {{width:'95%', height:250}}
               />
         </View>
         <View style={styles.slide}>
           <Image
-            source={require('./assets/slide_2.jpeg')}
+            source={require('./assets/Electronics.jpeg')}
             style = {{width:'95%', height:250}}
           />
         </View>
         <View style={styles.slide}>
           <Image
-            source={require('./assets/slide_3.jpeg')}
+            source={require('./assets/fashion.jpeg')}
             style = {{width:'95%', height:250}}
                 />
 
