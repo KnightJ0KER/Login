@@ -30,7 +30,6 @@ export default function App() {
             source={require('./assets/fashion.jpeg')}
             style = {{width:'95%', height:250}}
                 />
-
         </View>
       </Swiper>
   );
