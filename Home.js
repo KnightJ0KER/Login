@@ -38,7 +38,7 @@ export default function Home() {
 const styles = StyleSheet.create({
 
   wrapper: {
-    marginTop: 20,
+    // marginTop: 20,
   },
 
   slide: {
@@ -48,12 +48,12 @@ const styles = StyleSheet.create({
   },
 
   button:{
-    top: '-21%',
+    top: '-25%',
     flex: 0.5,
   },
 
   dot:{
-    marginBottom: 250,
+    marginBottom: 350,
   }
 
 });
