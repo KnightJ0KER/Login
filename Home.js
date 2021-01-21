@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleSheet, View, Image } from 'react-native';
+import { StyleSheet, View, Image, WebView } from 'react-native';
 import Swiper from 'react-native-swiper';
 
 export default function Home() {
@@ -53,7 +53,7 @@ const styles = StyleSheet.create({
   },
 
   dot:{
-    marginBottom: 350,
+    marginBottom: '80%',
   }
 
 });
